@@ -1,0 +1,55 @@
+.contact_bar_wrapper {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    display: flex; 
+     justify-content: space-between; 
+    
+}   
+
+.contact_bar {
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    position: relative;
+    /* margin: auto; */
+    /* background-color: antiquewhite; */
+}
+
+.line {
+    width: 1px;
+    height: 180px;
+    background: var(--light-slate);
+    margin-top: 20px;
+}
+
+
+.email {
+    font-family: var(--font-sans);
+    font-size: var(--fz-md);
+    writing-mode: vertical-rl;
+    letter-spacing: 1px;
+    margin: 0;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.icon {
+    margin: 15px ;
+    cursor: pointer;
+    transition: var(--transition);
+    /* border: 2px solid red; */
+    
+}
+
+.email:hover {
+    color: var(--green);
+    margin-bottom: 3px;
+}
+
+.icon:hover {
+    color: var(--green);
+    transform: translateY(-3px);
+}

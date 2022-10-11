@@ -1,0 +1,27 @@
+.container_skills .column{
+    width: calc(150% - 30px);
+}
+
+
+
+.bars{
+    margin-bottom: 17px;
+    /* width: 100%; */
+    /* border: 2px solid red; */
+}
+
+.logo{
+    margin: 50px;
+}
+.express{
+    width: 150px;
+    border-radius: 150px;
+}
+.mongodb{
+    width: 220px;
+    border-radius: 110px;
+}
+.sql{
+    width: 160px;
+}
+
