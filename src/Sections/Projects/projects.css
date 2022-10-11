@@ -1,0 +1,95 @@
+/* .container_projects{
+    width: 60%;
+    margin: 10px 10px;
+} */
+
+.component{
+    background-color: var(--light-navy);
+}
+
+.container_projects {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.project {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 10px;
+}
+
+.left_pro {
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.img{
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.right_pro {
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.heading {
+    color: var(--lightest-slate);
+    font-family: var(--font-sans);
+    font-size: var(--fz-heading);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.heading:hover {
+    color: var(--green);
+}
+
+.desc_pro {
+    background-color: var(--light-navy);
+    /* box-shadow: 0 10px 30px -15px var(--navy-shadow); */
+    color: var(--light-slate);
+    font-family: var(--font-sans);
+    line-height: 20px;
+    font-size: var(--fz-md);
+    padding: 20px;
+    z-index: 2;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.skill_container {
+    font-size: var(--fz-sm);
+    margin-bottom: 12px;
+    display: flex;
+}
+
+.skill_container > p {
+    margin: 0;
+    margin-left: 12px;
+    color: var(--lightest-slate);
+}
+
+.links_container {
+    display: flex;
+}
+
+.link {
+    cursor: pointer;
+    /* margin-left: 20px; */
+    padding: 50px;
+    background-color: var(--light-navy);
+    width: 100%;
+}
+
+.link:hover {
+    color: var(--green);
+}

@@ -6,7 +6,7 @@ import ContactBar from "./Component/ContactBar";
 import Home from "./Sections/Home/home";
 import About from "./Sections/About/about";
 import Experience from "./Sections/Experience/experience";
-// import Projects from "./Sections/Projects/projects";
+import Projects from "./Sections/Projects/projects";
 import Contact from "./Sections/Contact/contact";
 import Skills from "./Sections/Skills/skills";
 
@@ -19,7 +19,7 @@ function App() {
         <Home/>
         <About/>
         <Experience />
-        {/*<Projects/>*/}
+        <Projects/>
         <Skills/>
         <Contact/>
       </div>

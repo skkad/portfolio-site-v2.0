@@ -4,7 +4,7 @@ const projectsData =    {
         {
             "title":"Note Keepers App",
             // "image": "../images/notekeeper_project.PNG",
-            "image":"../images/notekeeper_project",
+            "image":"../images/notekeeper_project.PNG",
             "desc": "Notes Keeper App is a app to note down all the activites ,work to do just like notes app in our mobiles.Features used to build the project, various react hooks such as useState,useEffect and also used matrials.ui for some icon and styling the background of the page.",
             "skills": ["React", "Javascript","HTML", "CSS"],
             "github": "https://github.com/skkad/myReact-Project-NoteskeeperApp",
