@@ -4,8 +4,27 @@ import p2 from "../assets/images/tictactoe_project.jpg";
 import p3 from "../assets/images/minesweeper_project.jpg";
 import p4 from "../assets/images/tindog_project.jpg";
 import p5 from "../assets/images/photo_project.jpg";
+import p6 from "../assets/images/p6.jpg";
 const projectsData = {
   frontend: [
+    {
+      title: "CWC Squad Selector",
+      // "image": "../images/notekeeper_project.PNG",
+      image: p6,
+      desc: "I developed a small web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows individuals to select and recommend a team for India for the Cricket World Cup 2023 (CWC 23). Users can view player profiles, statistics, and performance metrics to make informed selections for the team.",
+      skills: [
+        "React",
+        "Node",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Javascript",
+        "HTML",
+        "CSS",
+      ],
+      github: "https://github.com/skkad/SqwadCWC23",
+      link: "https://myindiasquadcwc.netlify.app/",
+    },
     {
       title: "Note Keepers App",
       // "image": "../images/notekeeper_project.PNG",
