@@ -5,10 +5,10 @@ const experienceData = [
     title: "SDE 2 Frontend Developer",
     duration: "Jan 2024 - present",
     desc: [
-      "Gather functional requirements from product management/UX teams and translate requirements into technical specifications to build robust, scalable, supportable solutions.",
-      "Serve as technical lead throughout the full development lifecycle, end-to-end, from scoping, planning, conception, design, implementation and testing, to documentation, delivery and maintenance.",
-      "Provide design reviews for other engineers, including feedback on architecture and design issues, as well as integration and performance.",
-      "Develop new user-facing features. Assure that all user input is validated before submitting to the back-end. Collaborate with other team members and stakeholders.",
+      "Collaborated with product management and UX teams to translate requirements into technical specifications, resulting in robust solutions and a 20% improvement in project delivery timelines.",
+      "Implemented a data visualization dashboard using React and JavaScript, reducing data analysis time by 50%.",
+      "Engineered a donation platform with RazorPay integration, handling over 1,000 transactions and increasing donation processing efficiency by 30%.",
+      "Created a recruitment portal in partnership with various government agencies, facilitating over 5,000 job placements and significantly enhancing employment opportunities across India.",
     ],
   },
   {

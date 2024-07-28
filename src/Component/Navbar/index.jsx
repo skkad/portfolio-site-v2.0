@@ -1,5 +1,5 @@
 import "./navbar.css";
-import resumeCV from "../../assets/resume/KadirShaikh_FrontendDeveloper_MAR.pdf";
+import resumeCV from "../../assets/resume/KadirShaikh_FrontendDeveloper.pdf";
 
 function Navbar() {
   return (
