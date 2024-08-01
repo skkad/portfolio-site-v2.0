@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-site-v2.0/static/css/main.2b1cfd9e.css",
+    "main.js": "/portfolio-site-v2.0/static/js/main.e7b0c683.js",
+    "static/media/profile_img.jpg": "/portfolio-site-v2.0/static/media/profile_img.da2a7c0f216564f295ae.jpg",
+    "static/media/minesweeper_project.jpg": "/portfolio-site-v2.0/static/media/minesweeper_project.3725545fa1c12022e7cf.jpg",
+    "static/media/tictactoe_project.jpg": "/portfolio-site-v2.0/static/media/tictactoe_project.b065d6cbbfcba4676898.jpg",
+    "static/media/mongodb.jpeg": "/portfolio-site-v2.0/static/media/mongodb.7a2e8aa72baec9e297c7.jpeg",
+    "static/media/KadirShaikh_FrontendDeveloper.pdf": "/portfolio-site-v2.0/static/media/KadirShaikh_FrontendDeveloper.14723d9e329c88e6ac8c.pdf",
+    "static/media/p6.jpg": "/portfolio-site-v2.0/static/media/p6.4894e8f0b15e92f9a819.jpg",
+    "static/media/express-logo.png": "/portfolio-site-v2.0/static/media/express-logo.fde8826b2a1c6c27df91.png",
+    "static/media/tindog_project.jpg": "/portfolio-site-v2.0/static/media/tindog_project.6253589ffd0de8ad7153.jpg",
+    "static/media/notekeeper_project.PNG": "/portfolio-site-v2.0/static/media/notekeeper_project.b8cab1267d280926fd21.PNG",
+    "index.html": "/portfolio-site-v2.0/index.html",
+    "main.2b1cfd9e.css.map": "/portfolio-site-v2.0/static/css/main.2b1cfd9e.css.map",
+    "main.e7b0c683.js.map": "/portfolio-site-v2.0/static/js/main.e7b0c683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b1cfd9e.css",
+    "static/js/main.e7b0c683.js"
+  ]
+}
